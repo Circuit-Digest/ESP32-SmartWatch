@@ -7,7 +7,7 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-
+<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/e592b07d2ad34157cb771e986faa8ba3abddb6df/Watch%20faces.gif" width="" height="" />
 
 <br>
 <br>
