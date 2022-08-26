@@ -7,7 +7,7 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/e592b07d2ad34157cb771e986faa8ba3abddb6df/Watch%20faces.gif" width="" height="" />
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/f5b0782fe0a6becb24d5fa1374f036b46d71200c/Interfacing%20RCWL%200516%20Microwave%20Radar%20Sensor%20With%20Arduino/gif.gif" width="" height="" />
 
 <br>
 <br>
