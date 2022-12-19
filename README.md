@@ -1,5 +1,5 @@
 # [ESP32-SmartWatch](https://circuitdigest.com/microcontroller-projects/designing-smartwatch-using-esp32)
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/f03880cf410a6d26f3aee6174c1bc18d331a2654/Title.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/1e585d7ba4fbc580bee7d0e49dd973f8a178ff22/Title%20Image.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -7,7 +7,7 @@
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
-<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/ee5599a09004861a75ee062462898b256c045423/Watch%20faces.gif" width="" height="" />
+<img src="https://github.com/Circuit-Digest/ESP32-SmartWatch/blob/1e585d7ba4fbc580bee7d0e49dd973f8a178ff22/demo%20gif.gif" width="" height="" />
 
 <br>
 <br>
